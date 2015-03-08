@@ -1,0 +1,25 @@
+{
+  "uuid": "96b760d8-d2f8-4820-93e0-54f452efee00",
+  "shortName": "granite",
+  "longName": "granite",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "NUMBERS",
+        "file": "numbers.png"
+      }
+    ]
+  }
+}
