@@ -1,2 +1,2 @@
 # Granite
-Pebble Time watchface
+Pebble and Pebble Time watchface
